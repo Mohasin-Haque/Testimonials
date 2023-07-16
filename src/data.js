@@ -1,10 +1,10 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
-    job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+    name: "Mohasin Haque",
+    job: "Frontend Developer",
+    image: "https://i.ibb.co/3hDNLs0/Mohasin.jpg",
+    text: "I have worked with this team on several projects, and I am always impressed with their professionalism and attention to detail. They are true experts in their field and I would recommend them to anyone looking for a reliable partner to help them grow their business.",
   },
   {
     id: 2,
@@ -33,6 +33,13 @@ const reviews = [
     job: "Data Analyst",
     image: "https://avatars.githubusercontent.com/u/93366359?v=4",
     text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
+  },
+  {
+    id: 6,
+    name: "Pranay Gupta",
+    job: "Software Engineer",
+    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
 ];
 
